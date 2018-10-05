@@ -1,7 +1,6 @@
 var winScore = 0
 var lossScore = 0
 var guessLeft = 9
-var answer;
 
 var letter = ["a", "b", "c", "d", "e", "f", "g", "h", "i",
 							"j", "k", "l", "m", "n", "o", "p", "q", "r",
